@@ -1,0 +1,30 @@
+{
+  "name": "Desafio 30 Dias — Transformação Total",
+  "short_name": "Desafio 30D",
+  "description": "Desafio de transformação 30 dias — Exercícios, alimentação e caminhada",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#08080e",
+  "theme_color": "#08080e",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/icons/icon-192.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/icon-512.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/icon-maskable.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ]
+}
